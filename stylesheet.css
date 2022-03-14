@@ -91,6 +91,24 @@ nav .menu-btn {
         background: none;
     }
     /* MENU NAVBAR */
+
+    .section-team{
+        border-top: 1px solid #a70ae6;
+        border-bottom: 1px solid #a70ae6;
+        font-size: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .team-list{
+        float:left;
+        padding: 15px;
+    }
+
+    h3{
+        margin: 0 20px;
+    }
 }
 
 .section-team {
@@ -100,6 +118,10 @@ nav .menu-btn {
     padding-bottom: 15px;
     padding-top: 15px;
     margin-bottom: 30px;
+}
+
+h3{
+    margin: 0 30px;
 }
 
 .team-list{
@@ -113,5 +135,5 @@ nav .menu-btn {
 
 img {
     border-radius: 20px;
-  }
+}
 
