@@ -1,0 +1,25 @@
+body {
+    font-family: "Bitter";
+}
+
+.section-team {
+    border-top: 2px solid #a70ae6;
+    border-bottom: 2px solid #a70ae6;
+    font-size: 28px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+
+.team-list{
+    float:left;
+    padding: 20px;
+}
+
+.team-list p {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+  }
