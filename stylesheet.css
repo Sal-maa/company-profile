@@ -5,6 +5,7 @@ body {
 * {
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* MENU NAVBAR */
@@ -54,6 +55,49 @@ nav .menu-btn {
     display: none;
 }
 /* MENU NAVBAR */
+
+
+/* BANNER  */
+
+.banner
+{
+    background-image: linear-gradient(to right, #051937, #18193c, #29173e, #39133d, #480c39);
+    box-sizing : border-box;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 570px;
+    padding: 50px;
+}
+
+.banner h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    text-align: center;
+    margin: 50px;
+}
+
+.banner p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    margin: 30px;
+    padding: 40px;
+}
+
+.banner a
+{
+    background-color: #480C39;
+    border-radius: 5px;
+    color: #ffff;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+}
+
+/* BANNER */
 
 /* FOOTER */
 footer .container{
