@@ -155,6 +155,24 @@ footer .footer-col ul li a:hover{
 }
 /* FOOTER */
 
+/* ABOUT */
+.about h2 {
+  border-top: 2px solid #a70ae6;
+  border-bottom: 2px solid #a70ae6;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  font-size: 32px;
+  padding: 15px;
+  padding-left: 30px;
+}
+.about p {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 30px;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+}
+/* ABOUT */
 
 /* TEAM */
 .list {
