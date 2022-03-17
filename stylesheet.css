@@ -208,6 +208,41 @@ h3{
 }
 /* TEAM */
 
+
+/*CONTACT*/
+	.contact h2{
+	border-top: 2px solid #a70ae6;
+	border-bottom: 2px solid #a70ae6;
+	margin-bottom: 15px;
+	margin-top: 30px;
+	font-size: 32px;
+	padding: 15px;
+	padding-left: 30px;
+	}
+	
+	
+	input, textarea {
+	width: 400px;
+	margin-left : 30px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 20px;
+	font-size: 18px;
+	border: 1px solid #222f3e;
+}
+
+	.contact p {
+		margin-top: 20px;
+		margin-left : 30px;
+	}
+
+	.contact contact-submit {
+	background-color: #222f3e;
+	color: #f1f2f6;
+	}
+/*CONTACT*/
+
+
 @media (max-width: 940px) {
     /* MENU NAVBAR */
     nav .menu-btn {
@@ -246,34 +281,6 @@ h3{
     /* MENU NAVBAR */
 	
 	
-/*CONTACT*/
-	.contact{
-		background-color : #c8d6e5;
-		padding-top: 80px;
-	}
-	
-	input, textarea {
-		width: 400px;
-		margin-left : 30px;
-		margin-top: 10px;
-		margin-bottom: 30px;
-		padding: 20px;
-		font-size: 18px;
-		border: 1px solid #222f3e;
-	}
-
-	p {
-		margin-top: 20px;
-		margin-left : 30px;
-	}
-
-	.contact-submit {
-		background-color: #222f3e;
-		color: #f1f2f6;
-	}	
-/*CONTACT*/
-
-
     /* TEAM */
     .list {
         display: flex;
